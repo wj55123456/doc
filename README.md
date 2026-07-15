@@ -1,2 +1,0 @@
-# doc
-eu doc
